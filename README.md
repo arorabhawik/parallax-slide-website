@@ -18,6 +18,8 @@ Following css snippet is used to create such effect.
   background-attachment: fixed;
 }
 
+Following free high quality stock images are downloaded from pexels.com website.
+
 1)
 <img width="1437" alt="Screen Shot 2020-10-01 at 8 46 23 AM" src="https://user-images.githubusercontent.com/72097871/94761905-e32fd180-03c3-11eb-9b97-b6f556fa8ac5.png">
 
